@@ -5,7 +5,7 @@
    Open your command prompt and run the following command:
    ```bash
    pip install -r requirements.txt
-   ```
+   
 
 2. **Run the project:**
    You can start the project by either:
